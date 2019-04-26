@@ -1,0 +1,19 @@
+{
+  "generator-ngx-apollo": {
+    "version": "1.0.49",
+    "props": {
+      "location": "path",
+      "target": [
+        "web"
+      ],
+      "appName": "implicity angular oidc identityserver4",
+      "appDescription": "",
+      "pwa": true,
+      "angulartics": false,
+      "hotjar": false,
+      "projectName": "implicity-angular-oidc-identityserver-4",
+      "packageManager": "npm",
+      "mobile": []
+    }
+  }
+}

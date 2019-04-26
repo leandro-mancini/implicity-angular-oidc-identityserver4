@@ -1,0 +1,9 @@
+{
+    implicity angular oidc identityserver4
+    implicity-angular-oidc-identityserver-4
+    true
+    false
+    
+    
+    npm run env -s
+}
